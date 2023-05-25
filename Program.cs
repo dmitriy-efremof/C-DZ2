@@ -47,18 +47,18 @@
 // 7 -> да
 // 1 -> нет
 
-Console.WriteLine("Введите число");
-int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-if ((num <= 5) && (num != 0))
-{
-    Console.WriteLine("Нет");
-}
-else if ((num == 6) || (num == 7))
-{
-    Console.WriteLine("Да");
-}
-else if ((num > 7) || (num == 0))
-{
-    Console.WriteLine("Такого дня нет");
-}
+// if ((num <= 5) && (num != 0))
+// {
+//     Console.WriteLine("Нет");
+// }
+// else if ((num == 6) || (num == 7))
+// {
+//     Console.WriteLine("Да");
+// }
+// else if ((num > 7) || (num == 0))
+// {
+//     Console.WriteLine("Такого дня нет");
+// }
